@@ -1,7 +1,7 @@
 spark-cassandra-java-integration
 ================================
 
-Some code that uses the spark-cassandra-connector as provided by datastax.  Mostly concerned with getting the various dependencies correct so this example code will run on a local machine.
+Some very basic code that uses the "java" based spark-cassandra-connector as provided by datastax.  Mostly concerned with getting the various dependencies correct so this example code will run on a local machine via submission to a local Spark cluster.  
 
 This assumes you have:
 * a local Cassandra-2.1.1 instance running at "localhost"
